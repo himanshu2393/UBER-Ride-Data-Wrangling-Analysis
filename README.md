@@ -9,7 +9,7 @@
   
   <b> 5.) 'UBER_Data_Wrangling.ipynb' file:</b> This is python notebook which can be opened in  Jupyter Notebook or any other platform which supports python notebook.
   
-  <b> 6.) 'UBER_Data_Wrangling.pdf' file: This is a pdf version for the python notebook which includes console output and codebase. This can be useful if someone does not want to run the code again and just want to understand the whole procedure. 
+  <b> 6.) 'UBER_Data_Wrangling.pdf' file: </b> This is a pdf version for the python notebook which includes console output and codebase. This can be useful if someone does not want to run the code again and just want to understand the whole procedure. 
   
 ## To Run:
   You need Jupyter Notebook or any other IDE to work on the codebase.
