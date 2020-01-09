@@ -1,13 +1,13 @@
 # UBER-Ride-Data-Wrangling-Analysis
 
 ## Folder Structure:
-  <b>'data' folder: </b> Which has 5 different data files with their specific usecases defined in the notebook. </br>
-  <b>'dirty_data_solutions.csv' file:</b> This is a solution file for dirty data (which has semantic or syntactic errors) which has got the data after correction. </br>
+  <b> 1.) 'data' folder: </b> Which has 5 different data files with their specific usecases defined in the notebook. </br>
+  <b> 2.) 'dirty_data_solutions.csv' file:</b> This is a solution file for dirty data (which has semantic or syntactic errors) which has got the data after correction. </br>
   
-  'outliers_solution.csv' file: This is a solution file for outlier data which has got the modified data after handling the outliers.
-  'missing_value_solution' file: This is a solution file with imputed/ predicted values for missing data.
+  <b> 3.) 'outliers_solution.csv' file:</b> This is a solution file for outlier data which has got the modified data after handling the outliers.
+  <b> 4.) 'missing_value_solution' file:</b> This is a solution file with imputed/ predicted values for missing data.
   
-  'UBER_Data_Wrangling.ipynb' file: This is python notebook which can be opened in  Jupyter Notebook or any other platform which supports python notebook.
+  <b> 5.) 'UBER_Data_Wrangling.ipynb' file:</b> This is python notebook which can be opened in  Jupyter Notebook or any other platform which supports python notebook.
   
 ## To Run:
   You need Jupyter Notebook or any other IDE to work on the codebase.
