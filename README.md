@@ -1,8 +1,8 @@
 # UBER-Ride-Data-Wrangling-Analysis
 
 ## Folder Structure:
-  *'data' folder: * Which has 5 different data files with their specific usecases defined in the notebook. </br>
-  *'dirty_data_solutions.csv' file: * This is a solution file for dirty data (which has semantic or syntactic errors) which has got the data after correction. </br>
+  <b>'data' folder: </b> Which has 5 different data files with their specific usecases defined in the notebook. </br>
+  <b>'dirty_data_solutions.csv' file:</b> This is a solution file for dirty data (which has semantic or syntactic errors) which has got the data after correction. </br>
   
   'outliers_solution.csv' file: This is a solution file for outlier data which has got the modified data after handling the outliers.
   'missing_value_solution' file: This is a solution file with imputed/ predicted values for missing data.
